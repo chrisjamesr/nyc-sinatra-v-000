@@ -1,3 +1,9 @@
 class LandmarksController < ApplicationController
 
-end
+  get '/' do
+
+    
+  end
+
+end  #  End of Class
+ 
